@@ -112,7 +112,7 @@ const Products = () => {
       price: 150.99,
       quantity: 5,
       category: "Oriental",
-      image: "/api/placeholder/400/300"
+      image: "p-5.webp"
     },
     {
       id: 13,
@@ -121,7 +121,7 @@ const Products = () => {
       price: 62.99,
       quantity: 28,
       category: "Fresh",
-      image: "/api/placeholder/400/300"
+      image: "p-4.webp"
     },
     {
       id: 14,
@@ -130,7 +130,7 @@ const Products = () => {
       price: 85.99,
       quantity: 20,
       category: "Musky",
-      image: "/api/placeholder/400/300"
+      image: "p-3.webp"
     },
     {
       id: 15,
@@ -139,7 +139,16 @@ const Products = () => {
       price: 79.99,
       quantity: 15,
       category: "Floral",
-      image: "/api/placeholder/400/300"
+      image: "p-2.webp"
+    }
+    {
+      id: 16,
+      name: "Cherry Elegance",
+      description: "Delicate cherry Elegance vanilla",
+      price: 100,
+      quantity: 5,
+      category: "Floral",
+      image: "p-1.webp"
     }
     // Add more perfumes here
   ];
