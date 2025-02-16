@@ -105,52 +105,6 @@ const Products = () => {
       category: "Fresh",
       image: "p-6.webp"
     },
-    {
-      id: 12,
-      name: "Royal Saffron",
-      description: "Precious saffron combined with rose and agarwood",
-      price: 150.99,
-      quantity: 5,
-      category: "Oriental",
-      image: "p-5.webp"
-    },
-    {
-      id: 13,
-      name: "Green Tea Essence",
-      description: "Light and refreshing green tea with citrus notes",
-      price: 62.99,
-      quantity: 28,
-      category: "Fresh",
-      image: "p-4.webp"
-    },
-    {
-      id: 14,
-      name: "Musk Elegance",
-      description: "Clean white musk with powdery notes",
-      price: 85.99,
-      quantity: 20,
-      category: "Musky",
-      image: "p-3.webp"
-    },
-    {
-      id: 15,
-      name: "Cherry Blossom",
-      description: "Delicate cherry blossom with sweet pear and vanilla",
-      price: 79.99,
-      quantity: 15,
-      category: "Floral",
-      image: "p-2.webp"
-    }
-    {
-      id: 16,
-      name: "Cherry Elegance",
-      description: "Delicate cherry Elegance vanilla",
-      price: 100,
-      quantity: 5,
-      category: "Floral",
-      image: "p-1.webp"
-    }
-    // Add more perfumes here
   ];
 
   const filteredPerfumes = perfumes.filter(perfume =>
