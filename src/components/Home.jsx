@@ -12,7 +12,7 @@ const Home = () => {
       price: 89.99,
       quantity: 15,
       category: "Floral",
-      image: "p-1.webp"
+      image: "p-1.jpg"
     },
     {
       id: 2,
@@ -21,7 +21,7 @@ const Home = () => {
       price: 75.99,
       quantity: 20,
       category: "Fresh",
-      image: "p-8.webp"
+      image: "p-8.jpg"
     },
     {
       id: 3,
@@ -30,7 +30,7 @@ const Home = () => {
       price: 120.99,
       quantity: 10,
       category: "Oriental",
-      image: "p-7.webp"
+      image: "p-7.jpg"
     },
     {
       id: 4,
@@ -39,7 +39,7 @@ const Home = () => {
       price: 65.99,
       quantity: 25,
       category: "Citrus",
-      image: "p-6.webp"
+      image: "p-6.jpg"
     },
     {
       id: 5,
@@ -48,7 +48,7 @@ const Home = () => {
       price: 82.99,
       quantity: 18,
       category: "Oriental",
-      image: "p-5.webp"
+      image: "p-5.jpg"
     },
     {
       id: 6,
@@ -57,7 +57,7 @@ const Home = () => {
       price: 95.99,
       quantity: 12,
       category: "Woody",
-      image: "p-4.webp"
+      image: "p-4.jpg"
     },
   ];
   const featuredPerfumes = perfumes.slice(0, 3);
