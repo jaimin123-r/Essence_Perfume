@@ -106,7 +106,7 @@ const Contact = () => {
           </div>
           <div>
             <h3 className="text-xl font-serif text-amber-900 mb-2">Phone</h3>
-            <p className="text-gray-600">8849813209</p>
+            <p className="text-gray-600">7862894325</p>
           </div>
         </div>
       </div>
