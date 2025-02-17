@@ -13,7 +13,7 @@ const Products = () => {
       price: 89.99,
       quantity: 15,
       category: "Floral",
-      image: "p-1.webp"
+      image: "p-1.jpg"
     },
     {
       id: 2,
@@ -22,7 +22,7 @@ const Products = () => {
       price: 75.99,
       quantity: 20,
       category: "Fresh",
-      image: "p-8.webp"
+      image: "p-8.jpg"
     },
     {
       id: 3,
@@ -31,7 +31,7 @@ const Products = () => {
       price: 120.99,
       quantity: 10,
       category: "Oriental",
-      image: "p-7.webp"
+      image: "p-7.jpg"
     },
     {
       id: 4,
@@ -40,7 +40,7 @@ const Products = () => {
       price: 65.99,
       quantity: 25,
       category: "Citrus",
-      image: "p-6.webp"
+      image: "p-6.jpg"
     },
     {
       id: 5,
@@ -49,7 +49,7 @@ const Products = () => {
       price: 82.99,
       quantity: 18,
       category: "Oriental",
-      image: "p-5.webp"
+      image: "p-5.jpg"
     },
     {
       id: 6,
@@ -58,7 +58,7 @@ const Products = () => {
       price: 95.99,
       quantity: 12,
       category: "Woody",
-      image: "p-4.webp"
+      image: "p-4.jpg"
     },
     {
       id: 7,
@@ -67,7 +67,7 @@ const Products = () => {
       price: 78.99,
       quantity: 22,
       category: "Floral",
-      image: "p-3.webp"
+      image: "p-3.jpg"
     },
     {
       id: 8,
@@ -76,7 +76,7 @@ const Products = () => {
       price: 110.99,
       quantity: 8,
       category: "Oriental",
-      image: "p-2.webp"
+      image: "p-2.jpg"
     },
     {
       id: 9,
@@ -85,7 +85,7 @@ const Products = () => {
       price: 72.99,
       quantity: 30,
       category: "Aromatic",
-      image: "p-8.webp"
+      image: "p-8.jpg"
     },
     {
       id: 10,
@@ -94,7 +94,7 @@ const Products = () => {
       price: 88.99,
       quantity: 16,
       category: "Spicy",
-      image: "p-7.webp"
+      image: "p-7.jpg"
     },
     {
       id: 11,
@@ -103,7 +103,7 @@ const Products = () => {
       price: 68.99,
       quantity: 24,
       category: "Fresh",
-      image: "p-6.webp"
+      image: "p-6.jpg"
     },
   ];
 
